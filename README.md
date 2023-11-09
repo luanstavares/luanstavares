@@ -10,7 +10,7 @@
 
 ### About me 🤓
 
-<div align="center">
+<div alignitems="center">
   <span style="display: flex;">
     <img style="flex-basis: 50%" src="https://github-readme-stats.vercel.app/api?username=luanstavares&count_private=true&show_icons=true&theme=dark" height="200px">
     <img style="flex-basis: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanstavares&hide=java,%20ruby,%20CSS,%20objective-c,%20html&show_icons=true&theme=dark&layout=compact" height="200px">
