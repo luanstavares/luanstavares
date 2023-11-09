@@ -6,11 +6,11 @@
 
 ### Hello World :sunglasses::fist:
 
-<div style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/3o7abooVPgeGpknXpu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-spider-man-3o7abooVPgeGpknXpu"></a></p>
+<div style="width:100%;height:0;padding-bottom:41%;position:relative;">
+<iframe src="https://giphy.com/embed/3o7abooVPgeGpknXpu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
 
 ### About me 🤓
-
-<img style="margin: -5em 0 -2em 0" src="welcome-code.png">
 
 <div align="center">
   <span style="display: flex;">
@@ -41,7 +41,6 @@
   <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px" height="40px" />
   <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" height="40px" />
   <img alt="Sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="40px" height="40px" />
- 
 
 #### Hobbies
 
